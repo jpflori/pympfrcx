@@ -1,0 +1,6 @@
+prune pympfrcx
+include VERSION
+include pympfrcx/*.py
+include pympfrcx/*.pyx
+include pympfrcx/*.pxd
+
